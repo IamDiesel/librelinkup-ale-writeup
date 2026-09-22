@@ -1,6 +1,6 @@
 # librelinkup-ale-writeup
 
-**Reverse-Engineering-Writeup zur doppelten Verschlüsselung von LibreLinkUp (TLS + White-Box-ALE) — ein Erkenntnis-Bericht zur persönlichen Interoperabilität mit den eigenen Glukosewerten. Kein Kochrezept, kein Exploit-Code.**
+**[Reverse-Engineering-Writeup](https://github.com/IamDiesel/librelinkup-ale-writeup/blob/main/20260922_LibreLinkUp_RE_Public.pdf) zur doppelten Verschlüsselung von LibreLinkUp (TLS + White-Box-ALE) — ein Erkenntnis-Bericht zur persönlichen Interoperabilität mit den eigenen Glukosewerten. Kein Kochrezept, kein Exploit-Code.**
 
 > ⚠️ **Medizinischer Haftungsausschluss.** Dies ist ein technischer Sicherheits- und Reverse-Engineering-Bericht, **kein medizinisches Dokument**. Die beschriebenen Verfahren und sämtliche damit gewonnenen Glukosewerte (CGM-Daten) dürfen **unter keinen Umständen** für medizinische Entscheidungen herangezogen werden — insbesondere nicht für die Dosierung von Insulin oder andere Therapieanpassungen. Für Therapieentscheidungen sind ausschließlich die vom Hersteller zugelassenen, geprüften Anzeigegeräte und -Apps sowie ärztlicher Rat maßgeblich.
 
