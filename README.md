@@ -6,7 +6,7 @@
 
 ## Worum es geht
 
-LibreLinkUp verschlüsselt seine API-Nutzlast **doppelt**: einmal per TLS und darüber hinaus noch einmal *innerhalb der App* (Application-Level Encryption, „ALE") mit einer **White-Box-Kryptografie**. Dieser Bericht erklärt die Krypto- und Schutz-Architektur (ALE, White-Box, RASP) und die zwei Wege, den **eigenen** Glukosewert für die **eigene** Smartwatch nutzbar zu machen — motiviert durch persönliche Interoperabilität, falls die offene REST-Schnittstelle wegfällt.
+LibreLinkUp verschlüsselt seine API-Nutzlast **doppelt**: Einmal per TLS und darüber hinaus noch einmal *innerhalb der App* (Application-Level Encryption, „ALE") mit einer **White-Box-Kryptografie**. Dieser Bericht erklärt die Krypto- und Schutz-Architektur (ALE, White-Box, RASP) und die zwei Wege, den **eigenen** Glukosewert für die **eigene** Smartwatch nutzbar zu machen — motiviert durch persönliche Interoperabilität, falls die offene REST-Schnittstelle wegfällt.
 
 Der Fokus liegt auf **Verständnis und Methodik**. Durchgeführt wurde das gesamte Vorgehen auf einem **ungerooteten** Gerät, ausschließlich mit den **eigenen** Zugangsdaten und Gesundheitsdaten.
 
@@ -35,7 +35,7 @@ Die praktische Umsetzung — eine schlanke Android- & Wear-OS-App, die den eigen
 
 - **GlucoBridge** — *([GlucoBridge](https://github.com/IamDiesel/GlucoBridge))*
 
-Die Trennung ist bewusst: hier die Erkenntnisse, dort die (IP-freie) Anwendung.
+Die Trennung ist bewusst: Hier die Erkenntnisse, dort die (IP-freie) Anwendung.
 
 ## Kein Markenbezug / Haftung
 
