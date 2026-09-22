@@ -14,8 +14,8 @@ Der Fokus liegt auf **Verständnis und Methodik**. Durchgeführt wurde das gesam
 
 | Datei | Beschreibung |
 |---|---|
-| `LibreLinkUp_RE_Public_full-1.pdf` | Der vollständige Bericht als PDF — vorangestellter Krypto-Primer („Teil 0") + Hauptbericht. |
-| `LibreLinkUp_RE_Public_full.md` | Dieselbe Fassung als Markdown-Quelle. |
+| `20260922_LibreLinkUp_RE_Public.pdf` | Der vollständige Bericht als PDF — vorangestellter Krypto-Primer („Teil 0") + Hauptbericht. |
+| `20260922_LibreLinkUp_RE_Public_EN.pdf` | Dieselbe Fassung auf englisch. |
 | `LICENSE` | Lizenz (CC BY 4.0). |
 
 ## Scope, Ethik & bewusste Auslassungen
